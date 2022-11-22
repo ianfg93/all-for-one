@@ -1,1 +1,1 @@
-select id from products;
+SELECT id FROM products;
